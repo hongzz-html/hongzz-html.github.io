@@ -1,0 +1,5 @@
+table, th, td {
+  border: 1px solid black;
+}
+img{text-align-last: right;}
+hr {box-sizing: 3}
